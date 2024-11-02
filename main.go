@@ -8,7 +8,7 @@ import (
 func main() {
 	person := mypackage.MyClass{
 		Name: "Alice",
-		Age:  30,
+		Age:  45,
 	}
 
 	fmt.Println(person.Name, person.Age)
