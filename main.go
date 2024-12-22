@@ -6,6 +6,7 @@ import (
 	"goproject/mypackage"
 )
 
+
 func main() {
 	person := mypackage.MyClass{
 		Name: "Alice",
