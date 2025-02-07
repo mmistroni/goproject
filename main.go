@@ -25,4 +25,6 @@ func main() {
 
 	fmt.Println(another.Title, another.Teacher, another.Sex)
 
+	fmt.Println("Hello World")
+
 }
