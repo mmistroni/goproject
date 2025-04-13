@@ -18,7 +18,7 @@ func TestUpdateMap(t *testing.T) {
 
 	testMap := simpleFunction()
 
-	testMap[11] = "GuineaPig"
+	testMap[11] = "GuineaPiganother one"
 
 	if testMap[90] == "" {
 		t.Errorf("key 90 is busted: %v", testMap)
